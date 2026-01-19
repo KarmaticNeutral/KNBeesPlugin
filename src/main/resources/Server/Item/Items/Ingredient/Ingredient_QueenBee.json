@@ -1,0 +1,26 @@
+{
+  "TranslationProperties": {
+    "Name": "server.items.Ingredient_QueenBee.name",
+    "Description": "server.items.Ingredient_QueenBee.description"
+  },
+  "Icon": "Icons/ItemsGenerated/Rubble_Charcoal_Small.png",
+  "Categories": [
+    "Items.Ingredients"
+  ],
+  "ResourceTypes": [
+    {
+      "Id": "QueenBee"
+    },
+    {
+      "Id": "Bee"
+    }
+  ],
+  "PlayerAnimationsId": "Item",
+  "Tags": {
+    "Type": [
+      "Ingredient"
+    ]
+  },
+  "ItemSoundSetId": "ISS_Blocks_Stone",
+  "DropOnDeath": true
+}

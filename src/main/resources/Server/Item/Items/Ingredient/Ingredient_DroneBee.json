@@ -1,0 +1,32 @@
+{
+  "TranslationProperties": {
+    "Name": "server.items.Ingredient_DroneBee.name",
+    "Description": "server.items.Ingredient_DroneBee.description"
+  },
+  "Categories": [
+    "Items.Ingredients"
+  ],
+  "Icon": "Icons/ItemsGenerated/Ore_Iron.png",
+  "Model": "Resources/Ores/Ore_Large.blockymodel",
+  "Texture": "Resources/Ores/Ore_Textures/Iron.png",
+  "PlayerAnimationsId": "Item",
+  "Tags": {
+    "Type": [
+      "Ingredient"
+    ]
+  },
+  "ResourceTypes": [
+    {
+      "Id": "DroneBee"
+    },
+    {
+      "Id": "Bee"
+    }
+  ],
+  "ItemEntity": {
+    "ParticleSystemId": null
+  },
+  "MaxStack": 25,
+  "ItemSoundSetId": "ISS_Blocks_Stone",
+  "DropOnDeath": true
+}

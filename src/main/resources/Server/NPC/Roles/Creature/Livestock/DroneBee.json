@@ -1,0 +1,24 @@
+{
+  "Type": "Variant",
+  "Reference": "Template_Animal_Neutral",
+  "Modify": {
+    "Appearance": "DroneBee",
+    "FlockArray": [
+      "DroneBee"
+    ],
+    "MaxHealth": 10,
+    "ViewRange": 15,
+    "AttackWhenStartled": true,
+    "Attack": "Root_NPC_Attack_Melee",
+    "IsMemory": true,
+    "NameTranslationKey": {
+      "Compute": "NameTranslationKey"
+    }
+  },
+  "Parameters": {
+    "NameTranslationKey": {
+      "Value": "server.npcRoles.Cow.name",
+      "Description": "Translation key for NPC name display"
+    }
+  }
+}
