@@ -1,0 +1,22 @@
+{
+    "Group": "KarmaticNeutral",
+    "Name": "KNBeesPlugin",
+    "Version": "0.0.2",
+    "Description": "An example plugin for HyTale!",
+    "Authors": [
+        {
+            "Name": "KarmaticNeutral"
+        }
+    ],
+    "Website": "KarmaticNeutral.com",
+    "ServerVersion": "*",
+    "Dependencies": {
+        
+    },
+    "OptionalDependencies": {
+        
+    },
+    "DisabledByDefault": false,
+    "Main": "com.KarmaticNeutral.plugin.KNBeesPlugin",
+    "IncludesAssetPack": true
+}
