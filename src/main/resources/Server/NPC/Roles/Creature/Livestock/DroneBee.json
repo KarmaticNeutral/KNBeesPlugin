@@ -1,6 +1,6 @@
 {
   "Type": "Variant",
-  "Reference": "Template_Animal_Neutral",
+  "Reference": "Template_Bee_Neutral",
   "Modify": {
     "Appearance": "DroneBee",
     "FlockArray": [
@@ -17,7 +17,7 @@
   },
   "Parameters": {
     "NameTranslationKey": {
-      "Value": "server.npcRoles.Cow.name",
+      "Value": "server.npcRoles.DroneBee.name",
       "Description": "Translation key for NPC name display"
     }
   }
