@@ -1,0 +1,29 @@
+{
+  "Input": [
+    {
+      "ItemId": "Ingredient_HoneyComb",
+      "Quantity": 1
+    }
+  ],
+  "PrimaryOutput": {
+    "ItemId": "Ingredient_HoneyBottle",
+    "Quantity": 3
+  },
+  "Output": [
+    {
+      "ItemId": "Ingredient_HoneyBottle",
+      "Quantity": 3
+    },
+    {
+      "ItemId": "Ingredient_BeesWax",
+      "Quantity": 6
+    }
+  ],
+  "BenchRequirement": [
+    {
+      "Type": "Processing",
+      "Id": "Centrifugebench"
+    }
+  ],
+  "TimeSeconds": 4
+}

@@ -1,0 +1,46 @@
+{
+  "TranslationProperties": {
+    "Name": "server.items.Ingredient_BeesWax.name",
+    "Description": "server.items.Ingredient_BeesWax.description"
+  },
+  "Categories": [
+    "Blocks.Rocks"
+  ],
+  "BlockType": {
+    "DrawType": "Model",
+    "Opacity": "Transparent",
+    "CustomModel": "Items/Ingredients/Poop.blockymodel",
+    "CustomModelTexture": [
+      {
+        "Weight": 1,
+        "Texture": "Items/Ingredients/Poop_Texture.png"
+      }
+    ],
+    "Group": "",
+    "Flags": {},
+    "RandomRotation": "YawStep1",
+    "Gathering": {
+      "Harvest": {},
+      "Soft": {}
+    },
+    "Material": "Empty",
+    "HitboxType": "Plant_Small",
+    "BlockSoundSetId": "Mud",
+    "CustomModelScale": 0.75
+  },
+  "ResourceTypes": [
+    {
+      "Id": "Rock"
+    }
+  ],
+  "PlayerAnimationsId": "Item",
+  "Icon": "Icons/ItemsGenerated/Ingredient_Poop.png",
+  "Scale": 1.5,
+  "Tags": {
+    "Type": [
+      "Ingredient"
+    ]
+  },
+  "ItemSoundSetId": "ISS_Items_Splatty",
+  "DropOnDeath": true
+}
